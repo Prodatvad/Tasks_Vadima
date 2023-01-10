@@ -1,0 +1,3 @@
+/home/vadusha/Vadusha/Danula/cmake-build-debug/CMakeFiles/Danula.dir
+/home/vadusha/Vadusha/Danula/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vadusha/Vadusha/Danula/cmake-build-debug/CMakeFiles/rebuild_cache.dir
